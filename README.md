@@ -11,8 +11,6 @@ Automatically finds and deletes the registry key where StartAllBack stores the t
 3. Press **1** to reset the trial immediately
 4. Optional: Press **3** to enable auto-reset on a schedule (every 7 / 14 / 31 / 98 days)
 
-**No manual registry editing. No Procmon needed. Fully automatic.**
-
 **Tested: 05/08/2026**
 
 ---
@@ -29,7 +27,5 @@ Automatically finds and deletes the registry key where StartAllBack stores the t
 2. ПКМ → **Запуск от имени администратора**
 3. Нажми **1** чтобы сбросить пробник прямо сейчас
 4. Опционально: нажми **3** чтобы включить автосброс по расписанию (каждые 7 / 14 / 31 / 98 дней)
-
-**Никакого ручного редактирования реестра. Procmon не нужен. Всё автоматически.**
 
 **Проверено: 08.05.2026**
