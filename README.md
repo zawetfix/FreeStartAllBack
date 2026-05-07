@@ -2,7 +2,7 @@
 
 **Reset StartAllBack Trial Period to 100 Days**
 
-**Download the ZIP above "FreeStartAllBack.7z"** - all files included!
+**Download the ZIP above "EN_FreeStartAllBack.7z"** - all files included!
 
 ### What the service does:
 **Deletes the registry key** where StartAllBack stores the trial end date.  
@@ -33,7 +33,7 @@ The program will automatically create a new key with 100 days.
 
 # Сброс пробного периода StartAllBack до 100 дней
 
-**Скачай ZIP выше "FreeStartAllBack.7z"** - все файлы в комплекте!
+**Скачай ZIP выше "RU_FreeStartAllBack.7z"** - все файлы в комплекте!
 
 ### Что делает сервис:
 **Удаляет ключ реестра** где StartAllBack хранит дату окончания триала.  
