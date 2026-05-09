@@ -1,4 +1,8 @@
-[![Download](https://img.shields.io/github/downloads/zawetfix/FreeStartAllBack/total?style=for-the-badge&logo=github&label=Download&color=2563eb)](https://github.com/zawetfix/FreeStartAllBack/releases/download/1.0/TrialRefresh.bat)
+<div align="center">
+
+[![Download](https://img.shields.io/github/downloads/zawetfix/FreeStartAllBack/total?style=for-the-badge&logo=github&label=⬇%20Download%20TrialRefresh.bat&color=2563eb)](https://github.com/zawetfix/FreeStartAllBack/releases/download/1.0/TrialRefresh.bat)
+
+</div>
 
 ---
 
