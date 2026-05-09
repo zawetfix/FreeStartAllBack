@@ -1,7 +1,9 @@
+[![Download](https://img.shields.io/github/downloads/zawetfix/FreeStartAllBack/total?style=for-the-badge&logo=github&label=Download&color=2563eb)](https://github.com/zawetfix/FreeStartAllBack/releases/download/1.0/TrialRefresh.bat)
+
+---
+
 ## 🇺🇸 English
-
 ### TrialRefresh — StartAllBack Trial Reset
-
 **What it does:**
 Automatically finds and deletes the registry key where StartAllBack stores the trial expiration date. After deletion, StartAllBack creates a new key with 100 days automatically.
 
@@ -16,9 +18,7 @@ Automatically finds and deletes the registry key where StartAllBack stores the t
 ---
 
 ## 🇷🇺 Русский
-
 ### TrialRefresh — Сброс пробника StartAllBack
-
 **Что делает:**
 Автоматически находит и удаляет ключ реестра где StartAllBack хранит дату окончания триала. После удаления StartAllBack сам создаёт новый ключ с 100 днями.
 
