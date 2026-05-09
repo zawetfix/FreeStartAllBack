@@ -1,8 +1,8 @@
 <div align="center">
 
-| Скачивания | Обзор |
+| Downloads | Review |
 |:---:|:---:|
-| [![Download](https://img.shields.io/github/downloads/zawetfix/FreeStartAllBack/total?style=for-the-badge&logo=github&label=TrialRefresh.bat&color=555555)](https://github.com/zawetfix/FreeStartAllBack/releases/download/1.0/TrialRefresh.bat) | [![YouTube](https://img.shields.io/badge/TrialRefresh-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=-qIgDBnnvgs) |
+| [![Download](https://img.shields.io/github/downloads/zawetfix/FreeStartAllBack/total?style=for-the-badge&label=TrialRefresh.bat&color=555555)](https://github.com/zawetfix/FreeStartAllBack/releases/download/1.0/TrialRefresh.bat) | [![YouTube](https://img.shields.io/badge/TrialRefresh-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=-qIgDBnnvgs) |
 
 </div>
 
