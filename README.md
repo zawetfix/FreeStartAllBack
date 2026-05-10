@@ -4,7 +4,7 @@
 
 Help spread the word — give this project a ⭐ Star on GitHub!
 
-[![Star History Chart](https://api.star-history.com/svg?repos=zawetfix/FreeStartAllBack&type=Date)](https://star-history.com/#zawetfix/FreeStartAllBack&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=zawetfix/FreeStartAllBack&type=Date&theme=dark)](https://star-history.com/#zawetfix/FreeStartAllBack&Date)
 
 </div>
 
