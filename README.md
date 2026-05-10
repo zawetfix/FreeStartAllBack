@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=16&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=⭐+Help+spread+the+word+—+Star+this+repo!;⭐+Поставьте+звёздочку+этому+репозиторию!" alt="Star this repo" />
-
-<br/>
-
-[![Download](https://img.shields.io/github/downloads/zawetfix/FreeStartAllBack/total?style=for-the-badge&label=TrialRefresh.bat&color=2563eb&labelColor=1a1a2e&logoColor=white)](https://github.com/zawetfix/FreeStartAllBack/releases/download/1.0/TrialRefresh.bat)&nbsp;&nbsp;[![YouTube](https://img.shields.io/badge/Watch_Review-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=-qIgDBnnvgs)
+[![Download](https://img.shields.io/github/downloads/zawetfix/FreeStartAllBack/total?style=for-the-badge&label=TrialRefresh.bat&color=2563eb&labelColor=1a1a2e)](https://github.com/zawetfix/FreeStartAllBack/releases/download/1.0/TrialRefresh.bat)&nbsp;&nbsp;[![YouTube](https://img.shields.io/badge/Watch_Review-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=-qIgDBnnvgs)
 
 </div>
 
@@ -41,6 +37,8 @@
 ---
 
 <div align="center">
+
+### ⭐ Help spread the word — Star this repo!
 
 [![Star History Chart](https://api.star-history.com/svg?repos=zawetfix/FreeStartAllBack&type=Date&theme=dark)](https://star-history.com/#zawetfix/FreeStartAllBack&Date)
 
