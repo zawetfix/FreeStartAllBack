@@ -1,5 +1,17 @@
 <div align="center">
 
+Помогите поддержать проект звёздочкой, поставьте ⭐ на этот репозиторий!
+
+Help spread the word — give this project a ⭐ Star on GitHub!
+
+[![Star History Chart](https://api.star-history.com/svg?repos=zawetfix/FreeStartAllBack&type=Date)](https://star-history.com/#zawetfix/FreeStartAllBack&Date)
+
+</div>
+
+---
+
+<div align="center">
+
 | Downloads | Review |
 |:---:|:---:|
 | [![Download](https://img.shields.io/github/downloads/zawetfix/FreeStartAllBack/total?style=for-the-badge&label=TrialRefresh.bat&color=2563eb&labelColor=555555)](https://github.com/zawetfix/FreeStartAllBack/releases/download/1.0/TrialRefresh.bat) | [![YouTube](https://img.shields.io/badge/TrialRefresh-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=-qIgDBnnvgs) |
