@@ -1,11 +1,3 @@
-<div align="center">
-
-[![Download](https://img.shields.io/github/downloads/zawetfix/FreeStartAllBack/total?style=for-the-badge&label=TrialRefresh.bat&color=2563eb&labelColor=1a1a2e)](https://github.com/zawetfix/FreeStartAllBack/releases/download/1.0/TrialRefresh.bat)&nbsp;&nbsp;[![YouTube](https://img.shields.io/badge/Watch_Review-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=-qIgDBnnvgs)
-
-</div>
-
----
-
 ## 🇺🇸 English — TrialRefresh · StartAllBack Trial Reset
 
 > Automatically finds and deletes the registry key where StartAllBack stores the trial expiration date. After deletion, StartAllBack creates a new key with **100 days** automatically.
