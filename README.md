@@ -1,50 +1,42 @@
 <div align="center">
 
-⭐ **Help spread the word** — give this project a Star on GitHub!
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=16&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=⭐+Help+spread+the+word+—+Star+this+repo!;⭐+Поставьте+звёздочку+этому+репозиторию!" alt="Star this repo" />
 
-⭐ **Помогите поддержать проект** — поставьте звёздочку этому репозиторию!
+<br/>
 
-</div>
-
----
-
-<div align="center">
-
-[![Download](https://img.shields.io/github/downloads/zawetfix/FreeStartAllBack/total?style=for-the-badge&label=TrialRefresh.bat&color=2563eb&labelColor=555555)](https://github.com/zawetfix/FreeStartAllBack/releases/download/1.0/TrialRefresh.bat) &nbsp; [![YouTube](https://img.shields.io/badge/Watch_Review-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=-qIgDBnnvgs)
+[![Download](https://img.shields.io/github/downloads/zawetfix/FreeStartAllBack/total?style=for-the-badge&label=TrialRefresh.bat&color=2563eb&labelColor=1a1a2e&logoColor=white)](https://github.com/zawetfix/FreeStartAllBack/releases/download/1.0/TrialRefresh.bat)&nbsp;&nbsp;[![YouTube](https://img.shields.io/badge/Watch_Review-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=-qIgDBnnvgs)
 
 </div>
 
 ---
 
-## 🇺🇸 English
-### TrialRefresh — StartAllBack Trial Reset
+## 🇺🇸 English — TrialRefresh · StartAllBack Trial Reset
 
-**What it does:**
-Automatically finds and deletes the registry key where StartAllBack stores the trial expiration date. After deletion, StartAllBack creates a new key with 100 days automatically.
+> Automatically finds and deletes the registry key where StartAllBack stores the trial expiration date. After deletion, StartAllBack creates a new key with **100 days** automatically.
 
-**How to use:**
-1. Download `TrialRefresh.bat`
-2. Right-click → **Run as administrator**
-3. Press **1** to reset the trial immediately
-4. Optional: Press **3** to enable auto-reset on a schedule (every 7 / 14 / 31 / 98 days)
+| Step | Action |
+|:----:|--------|
+| 1️⃣ | Download `TrialRefresh.bat` |
+| 2️⃣ | Right-click → **Run as administrator** |
+| 3️⃣ | Press **`1`** to reset the trial immediately |
+| 4️⃣ | Optional: press **`3`** for auto-reset every 7 / 14 / 31 / 98 days |
 
-✅ **Tested: 05/08/2026**
+✅ `Tested: 05/08/2026`
 
 ---
 
-## 🇷🇺 Русский
-### TrialRefresh — Сброс пробника StartAllBack
+## 🇷🇺 Русский — TrialRefresh · Сброс пробника StartAllBack
 
-**Что делает:**
-Автоматически находит и удаляет ключ реестра где StartAllBack хранит дату окончания триала. После удаления StartAllBack сам создаёт новый ключ с 100 днями.
+> Автоматически находит и удаляет ключ реестра где StartAllBack хранит дату окончания триала. После удаления StartAllBack сам создаёт новый ключ с **100 днями**.
 
-**Как использовать:**
-1. Скачай `TrialRefresh.bat`
-2. ПКМ → **Запуск от имени администратора**
-3. Нажми **1** чтобы сбросить пробник прямо сейчас
-4. Опционально: нажми **3** чтобы включить автосброс по расписанию (каждые 7 / 14 / 31 / 98 дней)
+| Шаг | Действие |
+|:---:|----------|
+| 1️⃣ | Скачай `TrialRefresh.bat` |
+| 2️⃣ | ПКМ → **Запуск от имени администратора** |
+| 3️⃣ | Нажми **`1`** чтобы сбросить пробник прямо сейчас |
+| 4️⃣ | Опционально: нажми **`3`** для автосброса каждые 7 / 14 / 31 / 98 дней |
 
-✅ **Проверено: 08.05.2026**
+✅ `Проверено: 08.05.2026`
 
 ---
 
